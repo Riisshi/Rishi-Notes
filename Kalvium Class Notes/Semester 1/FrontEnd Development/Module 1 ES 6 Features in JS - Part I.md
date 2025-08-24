@@ -134,7 +134,7 @@ aspectRatio: "56.25"
 const user = { name: "Alice", age: 22 }; 
 const { name, age } = user; 
 console.log(name); // "Alice"
- console.log(age);  // 22
+console.log(age);  // 22
 ```
 
 - With arrays:
@@ -196,6 +196,5 @@ const greet = name => `Hello, ${name}`;
 const {name, age} = user; 
 const [a, b] = [10, 20];
 ```
-    
 
 ✅ Use ES6 for **cleaner, modern, bug-free JS**.
