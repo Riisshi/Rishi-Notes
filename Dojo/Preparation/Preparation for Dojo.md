@@ -103,3 +103,5 @@ _(Start ASAP, today assumed Aug 19)_
 - Use flashcards or notes for quick revision.
     
 - Take one full day before tests for review only.
+
+Hiiiiiiiii
