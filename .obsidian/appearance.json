@@ -1,5 +1,8 @@
 {
-  "theme": "obsidian",
   "cssTheme": "Minimal",
-  "accentColor": "#82b1ce"
+  "theme": "system",
+  "accentColor": "#dfe0f1",
+  "enabledCssSnippets": [
+    "snip"
+  ]
 }

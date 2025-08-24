@@ -1,20 +1,29 @@
 {
-  "editor:insert-codeblock": [
+  "editor:clear-formatting": [
     {
       "modifiers": [
-        "Mod",
+        "Alt",
         "Shift"
       ],
       "key": "C"
     }
   ],
-  "editor:clear-formatting": [
+  "editor:insert-codeblock": [
     {
       "modifiers": [
-        "Mod",
+        "Alt",
         "Shift"
       ],
-      "key": "V"
+      "key": "Q"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Z"
     }
   ]
 }
