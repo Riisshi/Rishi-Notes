@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dojo/Preparation/Preparation for Dojo.md",
+                "file": "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 20 Assignment - Fetching Data II part 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preparation for Dojo"
+              "title": "Module 20 Assignment - Fetching Data II part 2"
             }
           }
         ],
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 232.5
   },
   "right": {
     "id": "770f50628598564b",
@@ -220,6 +220,25 @@
   },
   "active": "a30038a4f45e952b",
   "lastOpenFiles": [
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 19 Assignment - Fetching Data II.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 18 JS API - Fetching data using Fetch and Axios.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 17 Assignment - Promises.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 16 Promises in JS.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 15 Assignment - Closures, Scoping, Callbacks, Async JS.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 14 Callbacks in JS & Async JS.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 13 Closures and scoping in JS.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 12 JS Event Loop.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 11 Assignment - Functional Programming - II.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 10 Assignment - Functional Programming - I.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 9 Anonymous and IIFE Functions.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 8 Recursive Functions.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 7 Higher Order Functions.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 6 JS Advanced Objects.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 5 JS Advanced Arrays.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 4 Pure and Impure functions in JS.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 2 ES6 Features in JS - Part II.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 1 ES 6 Features in JS - Part I.md",
+    "Dojo/Preparation/Preparation for Dojo.md",
     "settings.rar",
     "Obsidian/Kalvium Class Note/Prob Solv using Program/Module 3/Section 8 Binary Search in a 1-D array.md",
     "Obsidian/Kalvium Class Note/Prob Solv using Program/Module 3/Section 9 Implementing Binary Search in a 1-D array.md",
@@ -229,43 +248,24 @@
     "Obsidian/Kalvium Class Note/Prob Solv using Program/Module 3/Untitled",
     "Obsidian/Kalvium Class Note/Prob Solv using Program/Module 3/Section 4 Swap the largest and smallest element from the array.md",
     "Obsidian/Kalvium Class Note/Prob Solv using Program/Module 3/Section 3 Print the even elements in an array.md",
-    "Obsidian/Kalvium Class Note/Prob Solv using Program/Module 3/Section 2 Print the elements in an array.md",
-    "Obsidian/Kalvium Class Note/Prob Solv using Program/Module 3/Section 1 Introduction to Arrays.md",
     "Obsidian/Kalvium Class Note/Prob Solv using Program/Module 3/Images/Pasted image 20250824223811.png",
     "Obsidian/Kalvium Class Note/Prob Solv using Program/Module 3/Images/Pasted image 20250824223800.png",
     "Obsidian/Kalvium Class Note/Prob Solv using Program/Module 3/Images/Pasted image 20250824223745.png",
     "Obsidian/Kalvium Class Note/Prob Solv using Program/Module 3/Images/Pasted image 20250824223713.png",
     "Obsidian/Kalvium Class Note/Prob Solv using Program/Module 3/Images",
-    "Obsidian/Kalvium Class Note/Design for Developers/Module 3/Section 4 Testing and Iteration in UX Design.md",
-    "Obsidian/Kalvium Class Note/Design for Developers/Module 3/Section 3 Introduction to Prototyping.md",
     "Obsidian/Kalvium Class Note/Design for Developers/Module 3/Images/Pasted image 20250824222858.png",
     "Obsidian/Kalvium Class Note/Design for Developers/Module 3/Images/Pasted image 20250824222847.png",
     "Obsidian/Kalvium Class Note/Design for Developers/Module 3/Images/Pasted image 20250824222838.png",
     "Obsidian/Kalvium Class Note/Design for Developers/Module 3/Images/Pasted image 20250824222824.png",
     "Obsidian/Kalvium Class Note/Design for Developers/Module 3/Images/Pasted image 20250824222815.png",
     "Obsidian/Kalvium Class Note/Design for Developers/Module 3/Images/Pasted image 20250824222802.png",
-    "Obsidian/Kalvium Class Note/Design for Developers/Module 3/Section 2 Introduction to Wireframing.md",
-    "Obsidian/Kalvium Class Note/Design for Developers/Module 3/Section 1 Understanding the Importance of Information Architecture.md",
-    "Obsidian/README.md",
-    "().md",
-    "hello.md",
     "Table Data.base",
     "Obsidian/Kalvium Class Note/Design for Developers/Module 3/Images",
-    "Obsidian/JavaScript NodeJS/MERN stack/Backend/Backend Basic Syntax Notes.md",
     "Obsidian/Kalvium Class Note/Prob Solv using Program/Module 3",
     "Obsidian/Kalvium Class Note/Principles of Science/Module 3",
     "Obsidian/Kalvium Class Note/Front-end Web development/Module 3",
     "Obsidian/Kalvium Class Note/English LSRW/Module 3",
     "Obsidian/Kalvium Class Note/Critical Thinking/Module 3",
-    "Obsidian/Kalvium Class Note/Design for Developers/Module 3",
-    "Obsidian/Swayam/Java DSA/Week 1/Lecture 1.md",
-    "Obsidian/Swayam/Java DSA/Week 1/Lecture 2.md",
-    "Obsidian/NeoVimGuide/Neovim Setup Keybinds.md",
-    "Obsidian/JavaScript NodeJS/MERN stack/Frontend/Frontend Notes.md",
-    "Obsidian/JavaScript NodeJS/MERN stack/DataBase/Database Notes.md",
-    "Obsidian/JavaScript NodeJS/JS Syntax for Frontend and Backend.md",
-    "Obsidian/JavaScript NodeJS/JavaScript Syntax.md",
-    "Obsidian/JavaScript NodeJS/JavaScript Dojo.md",
     "Obsidian/Kalvium Class Note/Problem solving using programming/Untitled.canvas",
     "Untitled.canvas"
   ]

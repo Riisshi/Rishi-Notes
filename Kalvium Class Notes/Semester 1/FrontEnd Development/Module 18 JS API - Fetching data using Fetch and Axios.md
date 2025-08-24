@@ -21,7 +21,25 @@
 ### 🚀 Fetch API (Built-in)
 
 - Returns a **Promise**.
-   
+
+```embed
+title: "API Tutorial - Fetch Data with Axios - (Example in React)"
+image: "https://i.ytimg.com/vi/bMRrSqWFKqM/maxresdefault.jpg"
+description: "Tutorial on how to make API calls to fetch data using axios. I'm using React in this example, but you'll know how to use axios anywhere 👍.Hope it helps! Fee..."
+url: "https://youtu.be/bMRrSqWFKqM"
+favicon: ""
+aspectRatio: "56.25"
+```
+
+```embed
+title: "Learn Fetch API In 6 Minutes"
+image: "https://i.ytimg.com/vi/cuEtnrL9-H0/maxresdefault.jpg"
+description: "Accessing data from an API is one of the most common things you will do in web development, and the way to access APIs is with fetch. Fetch is function built..."
+url: "https://youtu.be/cuEtnrL9-H0"
+favicon: ""
+aspectRatio: "56.25"
+```
+
 
 #### Example: Single Item
 

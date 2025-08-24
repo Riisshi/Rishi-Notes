@@ -86,6 +86,14 @@ console.log(average); // 75
 - `reduce`: `[{price: 10}, {price: 20}] → 30` (total price)
 
 ---
+```embed
+title: "How to use map() filter() reduce() | JavaScript Array Methods Tutorial"
+image: "https://i.ytimg.com/vi/PojpwEbOQJg/maxresdefault.jpg"
+description: "Most important Array Methods Explained for Beginners | Learn Map, Filter, Reduce in JavaScript with Examples | Use array methods instead of foreach.Become a ..."
+url: "https://youtu.be/PojpwEbOQJg"
+favicon: ""
+aspectRatio: "56.25"
+```
 
 ### 🏆 Summary / Key Takeaways
 

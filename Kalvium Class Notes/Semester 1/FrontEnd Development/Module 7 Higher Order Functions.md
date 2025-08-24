@@ -153,6 +153,15 @@ const avg = total / students.length; console.log(avg); // 80
 
 ---
 
+```embed
+title: "Higher Order Function | javascript interview series"
+image: "https://i.ytimg.com/vi/E7WIis2NjZU/maxresdefault.jpg"
+description: "Welcome to a youtube channel dedicated to programming and coding related tutorials. We talk about tech, write code, discuss about cloud and devops. That’s wh..."
+url: "https://youtu.be/E7WIis2NjZU"
+favicon: ""
+aspectRatio: "56.25"
+```
+
 # 🎯 Summary Cheat Sheet
 
 |Method / Concept|What it Does|Example|

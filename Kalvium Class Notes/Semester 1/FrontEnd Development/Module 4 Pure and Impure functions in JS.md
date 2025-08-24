@@ -14,6 +14,25 @@
 
 ### 🧼 What is a Pure Function?
 
+```embed
+title: "Pure Functions / Intro to JavaScript ES6 programming, lesson 17"
+image: "https://i.ytimg.com/vi/dZ41D6LDSBg/maxresdefault.jpg"
+description: "Learn about determinism, side effects, and  pure functions.👉 Watch this to learn about abstraction https://www.youtube.com/watch?v=_y-5nZAbgt4📩 Subscribe t..."
+url: "https://youtu.be/dZ41D6LDSBg"
+favicon: ""
+aspectRatio: "56.25"
+```
+
+```embed
+title: "Learn Pure Functions In 10 Minutes"
+image: "https://i.ytimg.com/vi/fYbhD_KMCOg/maxresdefault.jpg"
+description: "Functional programming is constantly on the rise, and with functional programming comes pure functions. Pure functions are the base of what functional progra..."
+url: "https://youtu.be/fYbhD_KMCOg"
+favicon: ""
+aspectRatio: "56.25"
+```
+
+
 - **Definition:**  
     A function that always returns the same output for the same input and has **no side effects**.
     

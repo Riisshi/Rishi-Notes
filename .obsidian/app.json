@@ -2,6 +2,6 @@
   "newFileLocation": "root",
   "newFileFolderPath": "Images",
   "attachmentFolderPath": "./Images",
-  "vimMode": true,
+  "vimMode": false,
   "showLineNumber": true
 }

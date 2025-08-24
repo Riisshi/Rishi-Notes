@@ -122,6 +122,14 @@ getUser()
     - log result.
 
 ---
+```embed
+title: "What are JavaScript PROMISES? 🤞"
+image: "https://i.ytimg.com/vi/NOzi4wBHn0o/maxresdefault.jpg"
+description: "#JavaScript #tutorial #courses // Promise = An Object that manages asynchronous operations.//                    Wrap a Promise Object around {asynchronous c..."
+url: "https://youtu.be/NOzi4wBHn0o"
+favicon: ""
+aspectRatio: "56.25"
+```
 
 # ⚡ Cheat Sheet: Promises in JS
 

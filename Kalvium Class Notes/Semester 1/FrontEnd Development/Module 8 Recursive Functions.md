@@ -107,6 +107,15 @@ console.log(sumNestedArray([1, [2, [3, 4]], 5])); // 15
 
 ---
 
+```embed
+title: "Best Javascript Recursion Explanation on YouTube"
+image: "https://i.ytimg.com/vi/LteNqj4DFD8/maxresdefault.jpg"
+description: "What is recursion?The process in which a function calls itself is called recursion. The corresponding function is called a recursive function. A recursive fu..."
+url: "https://youtu.be/LteNqj4DFD8"
+favicon: ""
+aspectRatio: "56.25"
+```
+
 ### 📌 Summary / Key Takeaways
 
 - Recursion = function calling itself.

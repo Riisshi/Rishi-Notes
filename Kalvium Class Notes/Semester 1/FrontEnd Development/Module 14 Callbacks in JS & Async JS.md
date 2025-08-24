@@ -96,6 +96,15 @@ fetchData(showUI); // Data loaded! // Displaying UI...
 
 ---
 
+```embed
+title: "Learn JavaScript CALLBACKS in 7 minutes! 🤙"
+image: "https://i.ytimg.com/vi/i2SPq-nb3NQ/maxresdefault.jpg"
+description: "00:00:00 introduction00:00:50 example 100:04:00 example 2// callback = a function that is passed as an argument//                    to another function.//  ..."
+url: "https://youtu.be/i2SPq-nb3NQ"
+favicon: ""
+aspectRatio: "56.25"
+```
+
 ## ✨ Summary
 
 - **Async JS** → Handles time-taking tasks without blocking.

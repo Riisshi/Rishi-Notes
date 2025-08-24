@@ -112,6 +112,15 @@ admin.accessLevel = "super";  console.log(admin.login());
 
 ---
 
+```embed
+title: "Learn JavaScript OBJECTS in 7 minutes! 🧍"
+image: "https://i.ytimg.com/vi/lo7o91qLzxc/maxresdefault.jpg"
+description: "#JavaScript #tutorial #course // object = A collection of related properties and/or methods//                Can represent real world objects (people, produc..."
+url: "https://youtu.be/lo7o91qLzxc"
+favicon: ""
+aspectRatio: "56.25"
+```
+
 ### 🏆 Summary / Key Takeaways
 
 - Prototypes = hidden link to parent object.

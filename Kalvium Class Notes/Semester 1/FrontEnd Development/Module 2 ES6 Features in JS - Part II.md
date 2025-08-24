@@ -13,6 +13,16 @@ By the end of this lesson, you’ll know:
 
 ### 1️⃣ Default Parameters
 
+```embed
+title: "ES6 Default Parameters: A Beginner's Guide to Mastering JavaScript from Zero to Hero"
+image: "https://i.ytimg.com/vi/MHyp9Gi7Gpw/maxresdefault.jpg"
+description: "ES6 Default Parameters: A Beginner's Guide to Mastering JavaScript from Zero to HeroEver wanted to make your JavaScript functions more flexible? In this vide..."
+url: "https://youtu.be/MHyp9Gi7Gpw"
+favicon: ""
+aspectRatio: "56.25"
+```
+
+
 - Allow you to assign default values to function arguments if none are provided.
     
 - Helps avoid `undefined` values and makes functions more robust.
@@ -33,6 +43,16 @@ greet("Bob", "Hello"); // "Hello, Bob!"
 ---
 
 ### 2️⃣ Spread & Rest Operators (`...`)
+
+```embed
+title: "ES6 Rest & Spread operators"
+image: "https://i.ytimg.com/vi/QtGbcvZ6774/maxresdefault.jpg"
+description: "The Rest and Spread operators are two sides of the same thing - the ability to take an array and break it apart into its individual components or combine a b..."
+url: "https://youtu.be/QtGbcvZ6774"
+favicon: ""
+aspectRatio: "56.25"
+```
+
 
 - **Spread (`...`)** → expands elements of arrays/objects.
     

@@ -13,6 +13,16 @@
 
 #### 1️⃣ `let` & `const`
 
+```embed
+title: "Differences Between Var, Let, and Const"
+image: "https://i.ytimg.com/vi/9WIJQDvt4Us/maxresdefault.jpg"
+description: "You have probably watched many different tutorials, and you may have noticed that some tutorials use var to declare variables while others use let or even co..."
+url: "https://youtu.be/9WIJQDvt4Us"
+favicon: ""
+aspectRatio: "56.25"
+```
+
+
 - **Problem with `var`**
     - Function-scoped, not block-scoped.
     - Variables can "leak" outside blocks.
@@ -45,6 +55,16 @@ PI = 3.14159; // ❌ TypeError
 ---
 
 #### 2️⃣ Arrow Functions
+
+```embed
+title: "Arrow Functions  - Beau teaches JavaScript"
+image: "https://i.ytimg.com/vi/22fyYvxz-do/maxresdefault.jpg"
+description: "An arrow function in ES6 has a shorter syntax than a normal function and does not bind its own this.💻 Code: http://codepen.io/beaucarnes/pen/KWEVwQ?editors=..."
+url: "https://youtu.be/22fyYvxz-do"
+favicon: ""
+aspectRatio: "56.25"
+```
+
 
 - Shorter syntax for writing functions.
 - Automatically bind `this` (no need for `.bind()`).
