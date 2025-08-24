@@ -32,8 +32,27 @@ https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}&un
 ### 3. Fetch Weather Data with `fetch()`
 
 ```js
-async function getWeather(city) {   try {     const response = await fetch(       `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=YOUR_API_KEY&units=metric`     );      if (!response.ok) throw new Error("API Error: " + response.status);      const data = await response.json();      // Extract values     const temp = data.main.temp;     const desc = data.weather[0].description;     const cityName = data.name;      // Update UI     document.getElementById("city").textContent = cityName;     document.getElementById("temp").textContent = `${temp} °C`;     document.getElementById("desc").textContent = desc;    } catch (error) {     console.error("Error fetching weather:", error);   } }
-
+async function getWeather(city) {   
+	try {     
+		const response = await fetch(
+		`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=YOUR_API_KEY&units=metric`); 
+		     
+		if (!response.ok) throw new Error("API Error: " + response.status);
+		const data = await response.json();
+		      
+		// Extract values     
+		const temp = data.main.temp;     
+		const desc = data.weather[0].description;     
+		const cityName = data.name;
+		      
+		// Update UI
+		document.getElementById("city").textContent = cityName;     
+		document.getElementById("temp").textContent = `${temp} °C`;     
+		document.getElementById("desc").textContent = desc;    
+	} catch (error) {     
+		console.error("Error fetching weather:", error);   
+	}
+}
 ```
 ---
 

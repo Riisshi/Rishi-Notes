@@ -8,7 +8,7 @@
 - Solve real-world problems with these methods
 
 ---
-
+![[Pasted image 20250825002531.png]]
 ### 🔄 `map()` → Transforming Arrays
 
 - **Definition:** Creates a **new array** by applying a function to each element.

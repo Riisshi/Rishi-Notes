@@ -89,6 +89,15 @@ const greet = name => `Hello, ${name}`;
 
 #### 3️⃣ Template Literals
 
+```embed
+title: "Template Literals (ES6) - Beau teaches JavaScript"
+image: "https://i.ytimg.com/vi/kj8HU-_P2NU/maxresdefault.jpg"
+description: "How to use template literals in JavaScript ES6. These are surrounded by backticks ``.More info:🔗 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Ref..."
+url: "https://youtu.be/kj8HU-_P2NU"
+favicon: ""
+aspectRatio: "56.25"
+```
+
 - Use **backticks** (`` ` ``).
 - Allow **string interpolation** with `${}`.
 - Support **multi-line strings** easily.
@@ -109,6 +118,15 @@ console.log(`The temperature in ${city} is ${temp}°C.`);
 ---
 
 #### 4️⃣ Destructuring
+
+```embed
+title: "Destructuring in ES6 - Beau teaches JavaScript"
+image: "https://i.ytimg.com/vi/-vR3a11Wzt0/maxresdefault.jpg"
+description: "Destructuring assignment is special syntax for neatly assigning values taken directly from objects and arrays to variables. This is a new feature in JavaScri..."
+url: "https://youtu.be/-vR3a11Wzt0"
+favicon: ""
+aspectRatio: "56.25"
+```
 
 - Extract values from **arrays** or **objects** into variables directly.
 
