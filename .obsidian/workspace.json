@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "f004a2b71f13f36d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e10140358b58366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca6e68f079a98689",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dojo/C++/C++ Dojo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++ Dojo"
+            }
+          },
+          {
+            "id": "14e5bdab816cfc7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 20 Assignment - Fetching Data II part 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Module 20 Assignment - Fetching Data II part 2"
+            }
+          },
+          {
+            "id": "9c54b35a04c5f692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dojo/Java/Java Dojo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java Dojo"
+            }
+          },
+          {
+            "id": "1d35dcc48a06e67b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dojo/JavaScript/NodeJS Dojo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NodeJS Dojo"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fb324486b76dbc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea3975bf40a6d997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7690c3645e58249e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "44e856787e36b902",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e763121c1f074385",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "bebd43c32e1af92f",
+    "type": "split",
+    "children": [
+      {
+        "id": "19711dd871227a79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "704644907e39a0e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming, Data Structures and Algorithms using Python/Week 1/Lecture 1 Algorithms and programming - simple gcd.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lecture 1 Algorithms and programming - simple gcd"
+            }
+          },
+          {
+            "id": "c8302b373467e8df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming, Data Structures and Algorithms using Python/Week 1/Lecture 1 Algorithms and programming - simple gcd.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lecture 1 Algorithms and programming - simple gcd"
+            }
+          },
+          {
+            "id": "ac7d76dc5b746125",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7fe1aecc02c033fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming, Data Structures and Algorithms using Python/Week 1/Lecture 1 Algorithms and programming - simple gcd.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lecture 1 Algorithms and programming - simple gcd"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "14e5bdab816cfc7d",
+  "lastOpenFiles": [
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 19 Assignment - Fetching Data II.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 18 JS API - Fetching data using Fetch and Axios.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 17 Assignment - Promises.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 16 Promises in JS.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 15 Assignment - Closures, Scoping, Callbacks, Async JS.md",
+    "Dojo/Java/Java Dojo.md",
+    "Dojo/JavaScript/NodeJS Dojo.md",
+    "Dojo/C++/C++ Dojo.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 14 Callbacks in JS & Async JS.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 13 Closures and scoping in JS.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 12 JS Event Loop.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 11 Assignment - Functional Programming - II.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 10 Assignment - Functional Programming - I.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 9 Anonymous and IIFE Functions.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 8 Recursive Functions.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 7 Higher Order Functions.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 6 JS Advanced Objects.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 5 JS Advanced Arrays.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 4 Pure and Impure functions in JS.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3 Assignment - ES 6 Features.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 2 ES6 Features in JS - Part II.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 20 Assignment - Fetching Data II part 2.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 1 ES 6 Features in JS - Part I.md",
+    "Kalvium Class Notes/Prompt.md",
+    "Dojo/Preparation/Preparation for Dojo.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development",
+    "Kalvium Class Notes/Semester 1",
+    "Kalvium Class Notes",
+    "Dojo/JavaScript/Images/Pasted image 20250824170605.png",
+    "Dojo/JavaScript/Images/Pasted image 20250824170030.png",
+    "Dojo/JavaScript/Images/Pasted image 20250824163930.png",
+    "Dojo/JavaScript/Images/Pasted image 20250824163923.png",
+    "Dojo/JavaScript/Images/Pasted image 20250824112020.png",
+    "Dojo/JavaScript/Images/Pasted image 20250824105428.png",
+    "Dojo/JavaScript/Images/Pasted image 20250824104821.png",
+    "Dojo/JavaScript/Images/Pasted image 20250824103536.png",
+    "Dojo/JavaScript/Images/Pasted image 20250824103211.png",
+    "Dojo/JavaScript/Images/Pasted image 20250824000626.png",
+    "Dojo/Preparation/Images",
+    "Dojo/Preparation",
+    "Dojo/C++/Images",
+    "Dojo/C++",
+    "DSA/Java/DSA.md",
+    "DSA/Java/Images",
+    "DSA/Java",
+    "DSA"
+  ]
+}
