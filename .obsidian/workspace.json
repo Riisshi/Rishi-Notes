@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 1 ES 6 Features in JS - Part I.md",
+                "file": "Alen Notes/Kalvium Class Note/Engineering Science-1/Module 2/Section 1 Introduction to Electrical Quantities and Ohm’s Law.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 1 ES 6 Features in JS - Part I"
+              "title": "Section 1 Introduction to Electrical Quantities and Ohm’s Law"
             }
           }
         ],
@@ -218,8 +218,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "294b93d565848dbb",
+  "active": "a30038a4f45e952b",
   "lastOpenFiles": [
+    "Alen Notes/Kalvium Class Note/Engineering Science-1/Module 2/Section 2 Series and Parallel Circuits.md",
+    "Alen Notes/GitHub/Git and Github Commands.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 1 ES 6 Features in JS - Part I.md",
     "Alen Notes/Kalvium Class Note/Principles of Science/Module 1/Images/Pasted image 20250711144140.png",
     "Alen Notes/Kalvium Class Note/Principles of Science/Module 1/Images/Pasted image 20250711144257.png",
     "Alen Notes/Swayam/Intro to C Language/Week 2/Images/Pasted image 20250728001122.png",
@@ -230,7 +233,6 @@
     "Alen Notes/Kalvium Class Note/Principles of Science/Module 1/Images/Pasted image 20250711144449.png",
     "Alen Notes/Kalvium Class Note/Prob Solv using Program/Module 3/Images/Pasted image 20250824223713.png",
     "Alen Notes/Kalvium Class Note/Principles of Science/Module 1/Images/Pasted image 20250711144535.png",
-    "Alen Notes/Kalvium Class Note/Principles of Science/Module 1/Images/Pasted image 20250711144237.png",
     "Alen Notes/Swayam/Operating Systems/Week 1/Lecture 5.md",
     "Alen Notes/Swayam/Operating Systems/Week 1/Lecture 4.md",
     "Alen Notes/Swayam/Operating Systems/Week 1/Lecture 3.md",
@@ -254,8 +256,6 @@
     "Alen Notes/Swayam/Intro to C Language/Week 2/Lecture 8.md",
     "Alen Notes/Swayam/Intro to C Language/Week 2/Lecture 7.md",
     "Alen Notes/Swayam/Intro to C Language/Week 2/Lecture 6.md",
-    "Alen Notes/Swayam/Intro to C Language/Week 2/Lecture 5.md",
-    "Alen Notes/Swayam/Intro to C Language/Week 2/Lecture 4.md",
     "Alen Notes/Swayam/Intro to C Language/Week 2/Images",
     "Alen Notes/Kalvium Class Note/Prob Solv using Program/Module 3/Images",
     "Alen Notes/Kalvium Class Note/Principles of Science/Module 1/Images",
