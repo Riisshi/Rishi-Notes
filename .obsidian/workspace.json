@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,15 +246,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6796ebe575a895a5",
+  "active": "42605c84bd1e6e63",
   "lastOpenFiles": [
-    "Dojo/C++/C++ Dojo.md",
     "Dojo/JavaScript/NodeJS Dojo.md",
+    "Dojo/JavaScript/Images/Pasted image 20250825233325.png",
+    "Dojo/C++/C++ Dojo.md",
+    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 2 ES6 Features in JS - Part II.md",
     "Dojo/JavaScript/Images/Pasted image 20250825192914.png",
     "Dojo/JavaScript/Images/Pasted image 20250825192631.png",
     "Dojo/JavaScript/Images/Pasted image 20250825190950.png",
     "Dojo/JavaScript/Images/Pasted image 20250825190612.png",
-    "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 2 ES6 Features in JS - Part II.md",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 1 ES 6 Features in JS - Part I.md",
     "Dojo/Java/Java Dojo.md",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 3 Assignment - ES 6 Features.md",
@@ -292,7 +293,6 @@
     "DSA/Java/Images/Pasted image 20250810140137.png",
     "DSA/Java/Images/Pasted image 20250810140155.png",
     "DSA/Java/Images/Pasted image 20250810135916.png",
-    "DSA/Java/Images/Pasted image 20250810135909.png",
     "Obsidian/Kalvium Class Note/Problem solving using programming/Untitled.canvas",
     "Untitled.canvas"
   ]
