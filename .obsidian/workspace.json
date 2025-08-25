@@ -46,9 +46,23 @@
               "icon": "lucide-file",
               "title": "NodeJS Dojo"
             }
+          },
+          {
+            "id": "42605c84bd1e6e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dojo/C++/C++ Dojo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++ Dojo"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,8 +246,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21335522e6f86e3a",
+  "active": "6796ebe575a895a5",
   "lastOpenFiles": [
+    "Dojo/C++/C++ Dojo.md",
+    "Dojo/JavaScript/NodeJS Dojo.md",
+    "Dojo/JavaScript/Images/Pasted image 20250825192914.png",
+    "Dojo/JavaScript/Images/Pasted image 20250825192631.png",
     "Dojo/JavaScript/Images/Pasted image 20250825190950.png",
     "Dojo/JavaScript/Images/Pasted image 20250825190612.png",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 2 ES6 Features in JS - Part II.md",
@@ -261,9 +279,7 @@
     "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2/Lecture 1 Assignment statement, basic types - int, float, bool.md",
     "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2/Lecture 4 Control Flow.md",
     "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2/Lecture 2 Strings.md",
-    "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Lecture 4 Downloading and installing Python.md",
     "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Images",
-    "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Quiz.md",
     "Swayam Git/Ethical Hacking/Week 1/Images",
     "Swayam Git/Information Security/Week 1",
     "Swayam Git/Ethical Hacking/Week 2",
@@ -277,9 +293,6 @@
     "DSA/Java/Images/Pasted image 20250810140155.png",
     "DSA/Java/Images/Pasted image 20250810135916.png",
     "DSA/Java/Images/Pasted image 20250810135909.png",
-    "Dojo/JavaScript/Images/Pasted image 20250824104821.png",
-    "Dojo/Preparation/Images/Pasted image 20250819185335.png",
-    "Dojo/JavaScript/Images/Pasted image 20250824170030.png",
     "Obsidian/Kalvium Class Note/Problem solving using programming/Untitled.canvas",
     "Untitled.canvas"
   ]
