@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -260,10 +260,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f9a59376112e20b6",
+  "active": "42605c84bd1e6e63",
   "lastOpenFiles": [
-    "Dojo/C++/C++ Dojo.md",
     "Dojo/JavaScript/NodeJS Dojo.md",
+    "Dojo/JavaScript/Images/Pasted image 20250826010703.png",
+    "Dojo/Java/Java Dojo.md",
+    "Dojo/C++/C++ Dojo.md",
     "Dojo/JavaScript/Images/Pasted image 20250826010006.png",
     "Dojo/JavaScript/Images/Pasted image 20250826005121.png",
     "Dojo/JavaScript/Images/Pasted image 20250826004243.png",
@@ -273,10 +275,8 @@
     "Dojo/JavaScript/Images/Pasted image 20250825234938.png",
     "Dojo/JavaScript/Images/Pasted image 20250825234631.png",
     "Dojo/JavaScript/Images/Pasted image 20250825234520.png",
-    "Dojo/JavaScript/Images/Pasted image 20250825234320.png",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 2 ES6 Features in JS - Part II.md",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 1 ES 6 Features in JS - Part I.md",
-    "Dojo/Java/Java Dojo.md",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 3 Assignment - ES 6 Features.md",
     "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Images/Quiz.pdf",
     "Swayam Git/Ethical Hacking/Week 1/Images/Quiz.pdf",
