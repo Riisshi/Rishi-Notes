@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,8 +246,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21335522e6f86e3a",
+  "active": "f9a59376112e20b6",
   "lastOpenFiles": [
+    "Dojo/JavaScript/NodeJS Dojo.md",
     "Dojo/JavaScript/Images/Pasted image 20250826185945.png",
     "Dojo/JavaScript/Images/Pasted image 20250826185434.png",
     "Dojo/JavaScript/Images/Pasted image 20250826183954.png",
@@ -256,7 +257,6 @@
     "Dojo/JavaScript/Images/Pasted image 20250826163504.png",
     "Alen Notes/Java Programming/Java Dojo.md",
     "Dojo/C++/C++ Dojo.md",
-    "Dojo/JavaScript/NodeJS Dojo.md",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 3 Assignment - ES 6 Features.md",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 2 ES6 Features in JS - Part II.md",
     "Dojo/JavaScript/Images/Pasted image 20250826010703.png",
@@ -264,7 +264,6 @@
     "Dojo/JavaScript/Images/Pasted image 20250826010006.png",
     "Dojo/JavaScript/Images/Pasted image 20250826005121.png",
     "Dojo/JavaScript/Images/Pasted image 20250826004243.png",
-    "Dojo/JavaScript/Images/Pasted image 20250826003644.png",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 1 ES 6 Features in JS - Part I.md",
     "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Images/Quiz.pdf",
     "Swayam Git/Ethical Hacking/Week 1/Images/Quiz.pdf",
