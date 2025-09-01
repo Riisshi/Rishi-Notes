@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,12 +246,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0071bd891c7062c4",
+  "active": "21335522e6f86e3a",
   "lastOpenFiles": [
+    "Dojo/C++/C++ Dojo.md",
     "CA - Preperation for FrontEnd.md",
     "Dojo/JavaScript/NodeJS Dojo.md",
     "Dojo/Java/Java Dojo.md",
-    "Dojo/C++/C++ Dojo.md",
     "Alen Notes/C++ Programming/C++ Dojo.md",
     "Alen Notes/Java Programming/Java Dojo.md",
     "Dojo/JavaScript/Images/Pasted image 20250826185945.png",
