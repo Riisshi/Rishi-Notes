@@ -3,7 +3,6 @@
   "theme": "system",
   "accentColor": "#dfe0f1",
   "enabledCssSnippets": [
-    "snip",
-    "code-highlight"
+    "snip"
   ]
 }

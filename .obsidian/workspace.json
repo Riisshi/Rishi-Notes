@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dojo/Linked List - C++ Java Python JS.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -61,8 +61,7 @@
               "title": "Java Dojo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,10 +245,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "21335522e6f86e3a",
+  "active": "7a927259fb69c9ba",
   "lastOpenFiles": [
-    "Dojo/JavaScript/NodeJS Dojo.md",
     "Dojo/Linked List - C++ Java Python JS.md",
+    "Dojo/JavaScript/NodeJS Dojo.md",
     "Dojo/C++/C++ Dojo.md",
     "CA - Preperation for FrontEnd.md",
     "Dojo/Java/Java Dojo.md",
