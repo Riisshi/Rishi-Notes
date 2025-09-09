@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dojo/JavaScript/NodeJS Dojo.md",
+                "file": "Dojo/C++/C++ Dojo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NodeJS Dojo"
+              "title": "C++ Dojo"
             }
           }
         ],
@@ -262,6 +262,8 @@
   },
   "active": "a3388f8cef145b83",
   "lastOpenFiles": [
+    "Dojo/C++/Images/Pasted image 20250909104219.png",
+    "Dojo/JavaScript/NodeJS Dojo.md",
     "Dojo/JavaScript/Images/Pasted image 20250905224620.png",
     "Dojo/JavaScript/Images/Pasted image 20250905224205.png",
     "Dojo/JavaScript/Images/Pasted image 20250905223140.png",
@@ -269,7 +271,6 @@
     "Dojo/JavaScript/Images/Pasted image 20250905203103.png",
     "Dojo/JavaScript/Images/Pasted image 20250905202852.png",
     "Dojo/Linked List - C++ Java Python JS.md",
-    "Dojo/JavaScript/NodeJS Dojo.md",
     "Dojo/C++/C++ Dojo.md",
     "CA - Preperation for FrontEnd.md",
     "Dojo/Java/Java Dojo.md",
@@ -279,7 +280,6 @@
     "Dojo/JavaScript/Images/Pasted image 20250826185434.png",
     "Dojo/JavaScript/Images/Pasted image 20250826183954.png",
     "Dojo/JavaScript/Images/Pasted image 20250826183345.png",
-    "Dojo/JavaScript/Images/Pasted image 20250826164826.png",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 3 Assignment - ES 6 Features.md",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 2 ES6 Features in JS - Part II.md",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 1 ES 6 Features in JS - Part I.md",
