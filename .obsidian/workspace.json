@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dojo/JavaScript/NodeJS Dojo.md",
+                "file": "Dojo/Preparation/🎯 Belt 4 Master Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NodeJS Dojo"
+              "title": "🎯 Belt 4 Master Sheet"
             }
           }
         ],
@@ -262,6 +262,10 @@
   },
   "active": "a3388f8cef145b83",
   "lastOpenFiles": [
+    "Dojo/Preparation/Preparation for Dojo.md",
+    "Dojo/Preparation/🎯 Belt 4 Master Sheet.md",
+    "Dojo/Linked List - C++ Java Python JS.md",
+    "Dojo/JavaScript/NodeJS Dojo.md",
     "Dojo/JavaScript/Images/Pasted image 20250910183625.png",
     "Dojo/JavaScript/Images/Pasted image 20250910182613.png",
     "Dojo/C++/C++ Dojo.md",
@@ -273,9 +277,6 @@
     "Dojo/C++/Images/Pasted image 20250909114318.png",
     "Dojo/C++/Images/Pasted image 20250909113019.png",
     "Dojo/C++/Images/Pasted image 20250909111759.png",
-    "Dojo/C++/Images/Pasted image 20250909110949.png",
-    "Dojo/JavaScript/NodeJS Dojo.md",
-    "Dojo/Linked List - C++ Java Python JS.md",
     "CA - Preperation for FrontEnd.md",
     "Dojo/Java/Java Dojo.md",
     "Alen Notes/C++ Programming/C++ Dojo.md",
@@ -299,7 +300,6 @@
     "Swayam Git/Information Security/Week 2/Module 05 - Video.md",
     "Swayam Git/Information Security/Week 2/Module 08 - Video.md",
     "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2/Lecture 6 Examples.md",
-    "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2/Lecture 5 Functions.md",
     "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Images",
     "Swayam Git/Ethical Hacking/Week 1/Images",
     "Swayam Git/Information Security/Week 1",
