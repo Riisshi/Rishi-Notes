@@ -146,7 +146,7 @@ class Node {
     Node(int d){
 	    data = d;
 	    next = prev = null;
-	}
+		}
 }
 
 class LinkedList {
