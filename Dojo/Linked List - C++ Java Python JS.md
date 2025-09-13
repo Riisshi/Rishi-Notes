@@ -143,7 +143,10 @@ int main() {
 class Node {
     int data;
     Node next, prev;
-    Node(int d) { data = d; next = prev = null; }
+    Node(int d){
+	    data = d;
+	    next = prev = null;
+	}
 }
 
 class LinkedList {

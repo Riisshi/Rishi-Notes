@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dojo/Java/Java Dojo.md",
+                "file": "Dojo/Linked List - C++ Java Python JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Dojo"
+              "title": "Linked List - C++ Java Python JS"
             }
           },
           {
@@ -248,9 +248,9 @@
   },
   "active": "0071bd891c7062c4",
   "lastOpenFiles": [
+    "Dojo/Java/Java Dojo.md",
     "Dojo/Java/Images/Pasted image 20250912141359.png",
     "Dojo/C++/C++ Dojo.md",
-    "Dojo/Java/Java Dojo.md",
     "Dojo/Java/Images/Pasted image 20250912103318.png",
     "Dojo/Java/Images/Pasted image 20250911213047.png",
     "Alen Notes/Java Programming/Java Dojo.md",
@@ -265,7 +265,6 @@
     "Dojo/C++/Images/Pasted image 20250909125145.png",
     "Dojo/C++/Images/Pasted image 20250909122216.png",
     "Dojo/C++/Images/Pasted image 20250909121450.png",
-    "Dojo/C++/Images/Pasted image 20250909114318.png",
     "CA - Preperation for FrontEnd.md",
     "Alen Notes/C++ Programming/C++ Dojo.md",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 3 Assignment - ES 6 Features.md",
