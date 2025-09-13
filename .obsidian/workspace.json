@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dojo/Linked List - C++ Java Python JS.md",
+                "file": "Dojo/JavaScript/NodeJS Dojo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linked List - C++ Java Python JS"
+              "title": "NodeJS Dojo"
             }
           },
           {
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,9 +246,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0071bd891c7062c4",
+  "active": "21335522e6f86e3a",
   "lastOpenFiles": [
+    "Dojo/JavaScript/Images/Pasted image 20250913225829.png",
     "Dojo/Java/Java Dojo.md",
+    "Dojo/Linked List - C++ Java Python JS.md",
     "Dojo/Java/Images/Pasted image 20250912141359.png",
     "Dojo/C++/C++ Dojo.md",
     "Dojo/Java/Images/Pasted image 20250912103318.png",
@@ -256,7 +258,6 @@
     "Alen Notes/Java Programming/Java Dojo.md",
     "Dojo/Preparation/🎯 Belt 4 Master Sheet.md",
     "Dojo/Preparation/Preparation for Dojo.md",
-    "Dojo/Linked List - C++ Java Python JS.md",
     "Dojo/JavaScript/NodeJS Dojo.md",
     "Dojo/JavaScript/Images/Pasted image 20250910183625.png",
     "Dojo/JavaScript/Images/Pasted image 20250910182613.png",
