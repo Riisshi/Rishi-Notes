@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dojo/Java/Java Dojo.md",
+                "file": "Dojo/C++/C++ Dojo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Dojo"
+              "title": "C++ Dojo"
             }
           }
         ],
@@ -262,9 +262,9 @@
   },
   "active": "34618355c0ad7543",
   "lastOpenFiles": [
+    "Dojo/Java/Java Dojo.md",
     "Dojo/JavaScript/NodeJS Dojo.md",
     "Dojo/JavaScript/Images/Pasted image 20250914105228.png",
-    "Dojo/Java/Java Dojo.md",
     "Dojo/JavaScript/Images/Pasted image 20250913232023.png",
     "Dojo/JavaScript/Images/Pasted image 20250913231935.png",
     "Dojo/JavaScript/Images/Pasted image 20250913231414.png",
