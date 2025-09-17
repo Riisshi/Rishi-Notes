@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dojo/Java/Java Dojo.md",
+                "file": "Dojo/Python/Python Dojo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Dojo"
+              "title": "Python Dojo"
             }
           },
           {
@@ -262,6 +262,11 @@
   },
   "active": "21335522e6f86e3a",
   "lastOpenFiles": [
+    "Dojo/Python/Images/Pasted image 20250917212801.png",
+    "Dojo/Python/Images",
+    "Dojo/Java/Java Dojo.md",
+    "Dojo/Python/Python Dojo.md",
+    "Dojo/Python",
     "Dojo/Java/Images/Pasted image 20250917205431.png",
     "Dojo/Java/Images/Pasted image 20250917205135.png",
     "Dojo/JavaScript/NodeJS Dojo.md",
@@ -275,12 +280,10 @@
     "LeetCode/Images/Pasted image 20250917100947.png",
     "LeetCode/Images/Pasted image 20250917100924.png",
     "LeetCode/Images/Pasted image 20250917100858.png",
-    "LeetCode/Images/Pasted image 20250917095219.png",
     "CA - Preperation for FrontEnd.md",
     "LeetCode/Images",
     "Dojo/C++/C++ Dojo.md",
     "LeetCode",
-    "Dojo/Java/Java Dojo.md",
     "Alen Notes/Java Programming/Java Dojo.md",
     "Dojo/Preparation/🎯 Belt 4 Master Sheet.md",
     "Dojo/Preparation/Preparation for Dojo.md",
@@ -301,13 +304,10 @@
     "Swayam Git/Ethical Hacking/Week 2/Lecture 08 TCP and UDP (Part I).md",
     "Swayam Git/Ethical Hacking/Week 2/Lecture 06 IP addressing and routing (Part I).md",
     "Swayam Git/Information Security/Week 2/Module 07 - Video.md",
-    "Swayam Git/Information Security/Week 2/Module 05 - Video.md",
     "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Images",
     "Swayam Git/Ethical Hacking/Week 1/Images",
     "Swayam Git/Information Security/Week 1",
     "Swayam Git/Ethical Hacking/Week 2",
-    "Swayam Git/Information Security/Week 2",
-    "Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2",
     "Obsidian/Kalvium Class Note/Problem solving using programming/Untitled.canvas",
     "Untitled.canvas"
   ]
