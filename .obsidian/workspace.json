@@ -25,26 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dojo/JavaScript/NodeJS Dojo.md",
+                "file": "Dojo/Java/Java Dojo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NodeJS Dojo"
-            }
-          },
-          {
-            "id": "0071bd891c7062c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dojo/Linked List - C++ Java Python JS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linked List - C++ Java Python JS"
+              "title": "Java Dojo"
             }
           },
           {
@@ -90,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,9 +260,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0071bd891c7062c4",
+  "active": "21335522e6f86e3a",
   "lastOpenFiles": [
+    "Dojo/Java/Images/Pasted image 20250917205431.png",
+    "Dojo/Java/Images/Pasted image 20250917205135.png",
     "Dojo/JavaScript/NodeJS Dojo.md",
+    "Dojo/JavaScript/Images/Pasted image 20250917204653.png",
+    "Dojo/JavaScript/Images/Pasted image 20250917204417.png",
+    "Dojo/Linked List - C++ Java Python JS.md",
     "Dojo/JavaScript/Images/Pasted image 20250917133817.png",
     "Dojo/JavaScript/Images/Pasted image 20250917133031.png",
     "Dojo/JavaScript/Images/Pasted image 20250917114507.png",
@@ -286,14 +277,10 @@
     "LeetCode/Images/Pasted image 20250917100858.png",
     "LeetCode/Images/Pasted image 20250917095219.png",
     "CA - Preperation for FrontEnd.md",
-    "LeetCode/Images/Pasted image 20250915233031.png",
-    "LeetCode/Images/Pasted image 20250915232935.png",
     "LeetCode/Images",
     "Dojo/C++/C++ Dojo.md",
     "LeetCode",
     "Dojo/Java/Java Dojo.md",
-    "Dojo/JavaScript/Images/Pasted image 20250914105228.png",
-    "Dojo/Linked List - C++ Java Python JS.md",
     "Alen Notes/Java Programming/Java Dojo.md",
     "Dojo/Preparation/🎯 Belt 4 Master Sheet.md",
     "Dojo/Preparation/Preparation for Dojo.md",
