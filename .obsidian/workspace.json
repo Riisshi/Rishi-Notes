@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CA - Preperation for FrontEnd.md",
+                "file": "LeetCode/LeetCode - Easy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CA - Preperation for FrontEnd"
+              "title": "LeetCode - Easy"
             }
           }
         ],
@@ -276,6 +276,8 @@
   },
   "active": "057944b06d84dd0e",
   "lastOpenFiles": [
+    "LeetCode/Images/Pasted image 20250917095219.png",
+    "CA - Preperation for FrontEnd.md",
     "LeetCode/LeetCode - Easy.md",
     "LeetCode/Images/Pasted image 20250915233031.png",
     "LeetCode/Images/Pasted image 20250915232935.png",
@@ -296,7 +298,6 @@
     "Alen Notes/Java Programming/Java Dojo.md",
     "Dojo/Preparation/🎯 Belt 4 Master Sheet.md",
     "Dojo/Preparation/Preparation for Dojo.md",
-    "CA - Preperation for FrontEnd.md",
     "Alen Notes/C++ Programming/C++ Dojo.md",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 3 Assignment - ES 6 Features.md",
     "Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Section 2 ES6 Features in JS - Part II.md",
