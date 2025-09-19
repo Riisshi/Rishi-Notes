@@ -191,7 +191,10 @@ class LinkedList {
 
     void pop() {
         if (head == null) return;
-        if (head.next == null) { head = null; return; }
+        if (head.next == null) { 
+	        head = null; 
+	        return;
+	    }
         Node temp = head;
         while (temp.next != null) temp = temp.next;
         temp.prev.next = null;
