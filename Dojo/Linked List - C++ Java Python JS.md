@@ -154,11 +154,16 @@ class LinkedList {
 
     void append(int val) {
         Node n = new Node(val);
-        if (head == null) { head = n; return; }
+        if (head == null) { 
+	        head = n; 
+	        return; 
+	    }
         Node temp = head;
-        while (temp.next != null) temp = temp.next;
-        temp.next = n;
-        n.prev = temp;
+        while (temp.next != null){
+			temp = temp.next;
+			temp.next = n;
+			n.prev = temp;
+		}
     }
 
     void insertAtBeginning(int val) {
@@ -170,9 +175,12 @@ class LinkedList {
     }
 
     void insertAtIndex(int index, int val) {
-        if (index == 0) { insertAtBeginning(val); return; }
+        if (index == 0) {
+	        insertAtBeginning(val); 
+	        return; 
+	    }
         Node temp = head;
-        for (int i = 0; i < index - 1 && temp != null; i++) temp = temp.next;
+        for (int i = 0; i < index - 1 && temp != null; i++)temp = temp.next;
         if (temp == null) return;
         Node n = new Node(val);
         n.next = temp.next;

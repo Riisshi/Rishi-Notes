@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dojo/Python/Python Dojo.md",
+                "file": "Dojo/Linked List - C++ Java Python JS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Dojo"
+              "title": "Linked List - C++ Java Python JS"
             }
           },
           {
@@ -262,10 +262,11 @@
   },
   "active": "21335522e6f86e3a",
   "lastOpenFiles": [
+    "CA - Preperation for FrontEnd.md",
+    "Dojo/Python/Python Dojo.md",
     "Dojo/Python/Images/Pasted image 20250917212801.png",
     "Dojo/Python/Images",
     "Dojo/Java/Java Dojo.md",
-    "Dojo/Python/Python Dojo.md",
     "Dojo/Python",
     "Dojo/Java/Images/Pasted image 20250917205431.png",
     "Dojo/Java/Images/Pasted image 20250917205135.png",
@@ -279,8 +280,6 @@
     "LeetCode/LeetCode - Easy.md",
     "LeetCode/Images/Pasted image 20250917100947.png",
     "LeetCode/Images/Pasted image 20250917100924.png",
-    "LeetCode/Images/Pasted image 20250917100858.png",
-    "CA - Preperation for FrontEnd.md",
     "LeetCode/Images",
     "Dojo/C++/C++ Dojo.md",
     "LeetCode",
