@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "decc2470a258142e",
+    "type": "split",
+    "children": [
+      {
+        "id": "49213fb6cd63c2b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e009c0ebda4d3b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07136fd16d2a129c",
+    "type": "split",
+    "children": [
+      {
+        "id": "221018011655c0b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4bb8927609f64b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "137d660a61caef62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "60d2c1eb92044aa4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51a6b5a429a01d68",
+    "type": "split",
+    "children": [
+      {
+        "id": "1625663c059c8d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "094224916047d85f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2ed51df94abbff03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "88ae366210dcdef4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f5b58b9efba82325",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "65e009c0ebda4d3b",
+  "lastOpenFiles": [
+    "Notes/CA - Preperation for FrontEnd.md",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Images/Quiz.pdf",
+    "Notes/Swayam Git/Ethical Hacking/Week 1/Images/Quiz.pdf",
+    "Notes/Swayam Git/Information Security/Week 2/Module 08 - Video.md",
+    "Notes/Swayam Git/Information Security/Week 2/Module 07 - Video.md",
+    "Notes/Swayam Git/Information Security/Week 2/Module 06 - Video.md",
+    "Notes/Swayam Git/Information Security/Week 2/Module 05 - Video.md",
+    "Notes/Swayam Git/Information Security/Week 1/Module 04 - Video.md",
+    "Notes/Swayam Git/Information Security/Week 1/Module 03 - Video.md",
+    "Notes/Swayam Git/Information Security/Week 1/Module 02 - Video.md",
+    "Notes/Swayam Git/Information Security/Week 1/Module 01 - Video.md",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2/Lecture 6 Examples.md",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2/Lecture 5 Functions.md",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2/Lecture 4 Control Flow.md",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2/Lecture 3 Lists.md",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2/Lecture 2 Strings.md",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2/Lecture 1 Assignment statement, basic types - int, float, bool.md",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Images",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Lecture 4 Downloading and installing Python.md",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Quiz.md",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Lecture 3 Euclid's algorithm for gcd.md",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Lecture 2 Improving naive gcd.md",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Lecture 1 Algorithms and programming - simple gcd.md",
+    "Notes/Swayam Git/Ethical Hacking/Week 1/Quiz.md",
+    "Notes/Swayam Git/Ethical Hacking/Week 1/Lecture 05 TCP (OR) IP Protocol Stack (Part-II).md",
+    "Notes/Swayam Git/Ethical Hacking/Week 1/Lecture 04 TCP (OR) IP Protocol Stack (part-I) Untitled.md",
+    "Notes/Swayam Git/Ethical Hacking/Week 1/Lecture 03 Basic Concepts of Networking (part-II).md",
+    "Notes/Swayam Git/Ethical Hacking/Week 1/Lecture 01 Introduction to Ethical Hacking.md",
+    "Notes/Swayam Git/Ethical Hacking/Week 1/Lecture 02 Basic Concepts of Networking (part-I).md",
+    "Notes/Swayam Git/Ethical Hacking/Week 1/Images",
+    "Notes/Swayam Git/Information Security/Week 2",
+    "Notes/Swayam Git/Information Security/Week 1",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2",
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1",
+    "Notes/Swayam Git/Ethical Hacking/Week 1",
+    "Notes/Swayam Git/Ethical Hacking/Week 2",
+    "Notes/LeetCode/Images/Pasted image 20250917100924.png",
+    "Notes/LeetCode/Images/Pasted image 20250915233031.png",
+    "Notes/LeetCode/Images/Pasted image 20250917100947.png",
+    "Notes/LeetCode/Images/Pasted image 20250917100858.png",
+    "Notes/LeetCode/Images/Pasted image 20250917095219.png",
+    "Notes/LeetCode/Images/Pasted image 20250915232935.png",
+    "Notes/Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Images/Pasted image 20250825002531.png",
+    "Notes/DSA/Java/Images/Pasted image 20250810141438.png",
+    "Notes/DSA/Java/Images/Pasted image 20250810140155.png",
+    "Notes/DSA/Java/Images/Pasted image 20250810140137.png"
+  ]
+}
