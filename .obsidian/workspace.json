@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Python Dojo"
             }
+          },
+          {
+            "id": "62f1ce01014ec5f1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "3bd374d877f5c9ef",
+  "active": "62f1ce01014ec5f1",
   "lastOpenFiles": [
     "Notes/Dojo/Python/Images/Pasted image 20251001191117.png",
     "Notes/dojo shit again.md",
