@@ -25,12 +25,14 @@
             "id": "62f1ce01014ec5f1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Notes/Dojo/JavaScript/NodeJS Dojo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "NodeJS Dojo"
             }
           }
         ],
