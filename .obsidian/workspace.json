@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Dojo/JavaScript/NodeJS Dojo.md",
-                "mode": "source",
+                "file": "Notes/Dojo/C++/C++ Dojo.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NodeJS Dojo"
+              "title": "C++ Dojo"
             }
           }
         ],
@@ -181,16 +181,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "62f1ce01014ec5f1",
   "lastOpenFiles": [
-    "Notes/Dojo/Python/Images/Pasted image 20251001191117.png",
+    "Notes/LeetCode/LeetCode - Easy.md",
+    "Notes/DSA/Java/DSA.md",
+    "Notes/Dojo/Linked List - C++ Java Python JS.md",
+    "Notes/Dojo/JavaScript/NodeJS Dojo.md",
+    "Notes/Dojo/C++/C++ Dojo.md",
+    "Notes/Dojo/Java/Java Dojo.md",
+    "Panimalar_Hackathon/To-Do.md",
+    "Panimalar_Hackathon/Images/WhatsApp Image 2025-11-14 at 2.36.28 PM.jpeg",
+    "Panimalar_Hackathon/Images/Pasted image 20251114154228.png",
+    "Panimalar_Hackathon/Images/Pasted image 20251114150852.png",
+    "Panimalar_Hackathon/Images/Pasted image 20251114150726.png",
+    "Panimalar_Hackathon/Images/Pasted image 20251114150650.png",
+    "Panimalar_Hackathon/Images/Pasted image 20251114150631.png",
+    "Panimalar_Hackathon/Images/Pasted image 20251114150622.png",
+    "Panimalar_Hackathon/Images/Pasted image 20251114150606.png",
+    "Panimalar_Hackathon/Images/Pasted image 20251114150547.png",
+    "Panimalar_Hackathon/Images/Pasted image 20251114150528.png",
+    "Panimalar_Hackathon/Images",
+    "Panimalar_Hackathon",
     "Notes/dojo shit again.md",
     "Notes/Hii.md",
-    "Notes/Dojo/Java/Java Dojo.md",
-    "Notes/DSA/Java/DSA.md",
     "Notes/CA - Preperation for FrontEnd.md",
     "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Images/Quiz.pdf",
     "Notes/Swayam Git/Ethical Hacking/Week 1/Images/Quiz.pdf",
@@ -211,26 +228,10 @@
     "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Images",
     "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Lecture 4 Downloading and installing Python.md",
     "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Quiz.md",
-    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Lecture 3 Euclid's algorithm for gcd.md",
-    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Lecture 2 Improving naive gcd.md",
-    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1/Lecture 1 Algorithms and programming - simple gcd.md",
-    "Notes/Swayam Git/Ethical Hacking/Week 1/Quiz.md",
     "Notes/Swayam Git/Ethical Hacking/Week 1/Images",
     "Notes/Swayam Git/Information Security/Week 2",
     "Notes/Swayam Git/Information Security/Week 1",
     "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 2",
-    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1",
-    "Notes/Swayam Git/Ethical Hacking/Week 1",
-    "Notes/Swayam Git/Ethical Hacking/Week 2",
-    "Notes/LeetCode/Images/Pasted image 20250917100924.png",
-    "Notes/LeetCode/Images/Pasted image 20250915233031.png",
-    "Notes/LeetCode/Images/Pasted image 20250917100947.png",
-    "Notes/LeetCode/Images/Pasted image 20250917100858.png",
-    "Notes/LeetCode/Images/Pasted image 20250917095219.png",
-    "Notes/LeetCode/Images/Pasted image 20250915232935.png",
-    "Notes/Kalvium Class Notes/Semester 1/FrontEnd Development/Module 3/Images/Pasted image 20250825002531.png",
-    "Notes/DSA/Java/Images/Pasted image 20250810141438.png",
-    "Notes/DSA/Java/Images/Pasted image 20250810140155.png",
-    "Notes/DSA/Java/Images/Pasted image 20250810140137.png"
+    "Notes/Swayam Git/Programming, Data Structures and Algorithms using Python/Week 1"
   ]
 }
